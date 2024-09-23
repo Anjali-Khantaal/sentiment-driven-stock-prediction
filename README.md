@@ -1,6 +1,6 @@
 # Sentiment-Driven Stock Price Prediction Using Advanced NLP Techniques
 
-#### To run this code, don't forget to create a .env file with NEWSAPI_KEY key.
+### To run this code, don't forget to create a .env file with NEWSAPI_KEY key.
 
 Last few lines from a sample output:
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/23733d95-1a23-44f5-b14e-f5d8d70d55b9">
