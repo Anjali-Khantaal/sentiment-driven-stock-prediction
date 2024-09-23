@@ -6,6 +6,8 @@ Last few lines from a sample output:
 It corresponds to:
 ![portfolio_value](https://github.com/user-attachments/assets/8e118166-ff97-4f5a-aee4-aca6ac120173)
 
+#### To run this code, don't forget to create a .env file with NEWSAPI_KEY key.
+
 ## Project Objectives
 
 ### Data Collection
