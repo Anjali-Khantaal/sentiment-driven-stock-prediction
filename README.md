@@ -1,8 +1,5 @@
 # Sentiment-Driven Stock Price Prediction Using Advanced NLP Techniques
 
-## Project Overview
-In this project, I have developed a sentiment analysis tool using advanced NLP models to analyze financial news headlines and predict short-term stock price movements. By leveraging transformer-based models like FinBERT, we can extract nuanced sentiment from finance-specific texts, culminating into a strategy simulation.
-
 Last few lines from a sample output:
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/23733d95-1a23-44f5-b14e-f5d8d70d55b9">
 
