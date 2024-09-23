@@ -3,6 +3,9 @@
 Last few lines from a sample output:
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/23733d95-1a23-44f5-b14e-f5d8d70d55b9">
 
+It corresponds to:
+![portfolio_value](https://github.com/user-attachments/assets/8e118166-ff97-4f5a-aee4-aca6ac120173)
+
 ## Project Objectives
 
 ### Data Collection
