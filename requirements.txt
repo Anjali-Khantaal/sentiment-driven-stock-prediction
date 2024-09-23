@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+transformers
+torch
+yfinance
+python-dotenv
